@@ -11,7 +11,6 @@ var firebaseConfig = {
   appId: "1:138866529512:web:91427c72c8fdcd6e15e55d"
 };
 
-// Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 
 const projectStorage = firebase.storage();
