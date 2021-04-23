@@ -13,6 +13,7 @@ var firebaseConfig = {
   measurementId: "G-XV1L15QB2R"
 };
 
+
 firebase.initializeApp(firebaseConfig);
 
 const projectStorage = firebase.storage();
